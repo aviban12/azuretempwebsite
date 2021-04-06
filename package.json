@@ -1,0 +1,25 @@
+{
+  "name": "tempwebsite",
+  "version": "1.0.0",
+  "description": "temp project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aviban12/azuretempwebsite.git"
+  },
+  "keywords": [
+    "temp"
+  ],
+  "author": "Avish Bansal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aviban12/azuretempwebsite/issues"
+  },
+  "homepage": "https://github.com/aviban12/azuretempwebsite#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
